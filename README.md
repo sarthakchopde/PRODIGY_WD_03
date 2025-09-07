@@ -19,7 +19,9 @@ A simple and interactive **Tic-Tac-Toe** game built using HTML, CSS, and JavaScr
 ### File Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # CSS styles for layout and design
+
 └── script.js # JavaScript logic for game interaction
 
 ## Usage
